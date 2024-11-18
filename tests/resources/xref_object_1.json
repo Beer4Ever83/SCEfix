@@ -1,0 +1,31 @@
+{
+  "type": "xref",
+  "start": 0,
+  "count": 24,
+  "objects": [
+    { "offset": 0, "generation": 65535, "in_use": false },
+    { "offset": 34279, "generation": 0, "in_use": true },
+    { "offset": 34413, "generation": 0, "in_use": true },
+    { "offset": 15, "generation": 0, "in_use": true },
+    { "offset": 619, "generation": 0, "in_use": true },
+    { "offset": 1135, "generation": 0, "in_use": true },
+    { "offset": 1739, "generation": 0, "in_use": true },
+    { "offset": 2164, "generation": 0, "in_use": true },
+    { "offset": 3031, "generation": 0, "in_use": true },
+    { "offset": 3955, "generation": 0, "in_use": true },
+    { "offset": 4396, "generation": 0, "in_use": true },
+    { "offset": 34501, "generation": 0, "in_use": true },
+    { "offset": 4885, "generation": 0, "in_use": true },
+    { "offset": 9463, "generation": 0, "in_use": true },
+    { "offset": 14799, "generation": 0, "in_use": true },
+    { "offset": 23436, "generation": 0, "in_use": true },
+    { "offset": 34529, "generation": 0, "in_use": true },
+    { "offset": 24800, "generation": 0, "in_use": true },
+    { "offset": 25087, "generation": 0, "in_use": true },
+    { "offset": 33190, "generation": 0, "in_use": true },
+    { "offset": 33375, "generation": 0, "in_use": true },
+    { "offset": 33781, "generation": 0, "in_use": true },
+    { "offset": 34582, "generation": 0, "in_use": true },
+    { "offset": 34629, "generation": 0, "in_use": true }
+  ]
+}
