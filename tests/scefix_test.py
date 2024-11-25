@@ -9,7 +9,7 @@ xref_tables: list[str] = []
 xref_object_1 = {}
 fixed_pdf_buffer: bytearray = bytearray()
 
-class TestDespain(unittest.TestCase):
+class TestSCEfix(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         global pdf_buffer
